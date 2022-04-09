@@ -1,0 +1,2 @@
+accuracy 98
+val acuracy 86,7
